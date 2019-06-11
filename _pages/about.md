@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home Page of Peter A.I. Forsyth"
+title: "Peter A.I. Forsyth"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
