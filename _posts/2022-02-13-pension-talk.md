@@ -7,7 +7,7 @@ tags:
    finance
    machine learning
 excerpt:
-   This term our [reading group](https://github.com/paiforsyth/ML-Finance_Group) is discussing investment problems faced by retail investors.  I spoke about defined contributon pension deccumulation.  The talk is recorded [here](https://www.youtube.com/watch?v=N2RF30W3wVE).
+   This term our [reading group](https://github.com/paiforsyth/ML-Finance_Group) is discussing investment problems faced by retail investors.  I spoke about defined contributon pension deccumulation.  The talk is recorded [here](https://www.youtube.com/watch?v=8GvFi7wyQcg.
 ---
 
-This term our [reading group](https://github.com/paiforsyth/ML-Finance_Group) is discussing investment problems faced by retail investors.  I gave a talk on defined contributon pension deccumulation, which is recorded [here](https://www.youtube.com/watch?v=N2RF30W3wVE).
+This term our [reading group](https://github.com/paiforsyth/ML-Finance_Group) is discussing investment problems faced by retail investors.  I gave a talk on defined contributon pension deccumulation, which is recorded [here](https://www.youtube.com/watch?v=8GvFi7wyQcg).
