@@ -1,5 +1,5 @@
 ---
-title: 'Deep Hedging with transaction costs:'
+title: 'Deep Hedging with transaction costs'
 date: 2022-06-03
 permalink: /posts/2022/08/transaction
 tags:
