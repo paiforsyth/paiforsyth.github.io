@@ -8,4 +8,4 @@ tags:
 excerpt:
    Another short book [review](https://www.dropbox.com/scl/fi/bd1khrrt5ppph7a3bfn4v/Book_review__Hernan_and_Robins.pdf?rlkey=myiaaibh7nvww0dzi0excyinw&dl=0).
 ---
-  Another short book [review](https://www.dropbox.com/scl/fi/bd1khrrt5ppph7a3bfn4v/Book_review__Hernan_and_Robins.pdf?rlkey=myiaaibh7nvww0dzi0excyinw&dl=0), this time on an introductory book on causal inference.
+  Another short book [review](https://www.dropbox.com/scl/fi/bd1khrrt5ppph7a3bfn4v/Book_review__Hernan_and_Robins.pdf?rlkey=myiaaibh7nvww0dzi0excyinw&dl=0), this time of an introductory book on causal inference.
