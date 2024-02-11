@@ -1,6 +1,6 @@
 ---
 title: 'Short book review: Elements of Information Theory'
-date: 2024-02-10
+date: 2024-02-11
 permalink: /posts/2024/02/informationtheory
 tags:
    information
